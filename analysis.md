@@ -20,7 +20,8 @@ The consideration of the class scheduling is the type of algorithms such as Firs
 
 ## First Come First Served (FCFS)
 
-The output of the course scheduling:
+### output
+The order of the course scheduling:
 2201
 3401
 1103
