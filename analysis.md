@@ -19,7 +19,6 @@ The consideration of the class scheduling is the type of algorithms such as Firs
 # Analysis
 
 ## First Come First Served (FCFS)
-
 ### Output
 The order of the course scheduling:
 2201
@@ -30,6 +29,7 @@ Average waiting time: 2.66667
 
 Average turnaround time: 4.66667
 
+Based on the output, FCFS is the highest average waiting time and average turnaround time compared to SJF and Priority Scheduling. This is because the processes are short and there are no process will wait in the longer time. The output also has implementing the First In First Out queue in the process that influenced the order of the scheduling. 
 
 ## Shortest Job First (SJF)
 
