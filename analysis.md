@@ -57,5 +57,7 @@ Average turnaround time: 3.66667
 
 # Conclusion
 
+In brief, based on the three algorithms processes, it indicates the different average waiting time and average turnaround time. For the average waiting time, Priority Scheduling has the shortest average waiting time compared to FCFS and SJF. Other than that, the highest average turnaround time is FCFS contrast to SJF and Priority Scheduling. 
+
 
 
