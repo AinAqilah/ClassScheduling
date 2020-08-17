@@ -20,7 +20,7 @@ The consideration of the class scheduling is the type of algorithms such as Firs
 
 ## First Come First Served (FCFS)
 
-### output
+### Output
 The order of the course scheduling:
 2201
 3401
@@ -33,7 +33,8 @@ Average turnaround time: 4.66667
 
 ## Shortest Job First (SJF)
 
-The output of the course scheduling:
+### Output
+The order of the course scheduling:
 2201
 1103
 3401
@@ -44,7 +45,8 @@ Average turnaround time: 4.33333
 
 ## Priority Scheduling 
 
-The output of the course scheduling:
+### Output
+The order of the course scheduling:
 1103
 2201
 3401
