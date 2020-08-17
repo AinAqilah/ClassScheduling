@@ -18,9 +18,7 @@ The consideration of the class scheduling is the type of algorithms such as Firs
 
 # Analysis
 
-## FCFS
-
-Give an analysis of your algo and compare it with the other two
+## First Come First Served (FCFS)
 
 First Come First Served (FCFS)
 
@@ -64,6 +62,8 @@ The output of the course scheduling:
 Average waiting time: 1.66667
 
 Average turnaround time: 3.66667
+
+# Conclusion
 
 
 
