@@ -43,7 +43,7 @@ Average waiting time: 2.33333
 
 Average turnaround time: 4.33333
 
-SJF has the highest average waiting time as compared to FCFS and the lowest in comparison between Priority Scheduling. It is selected for the execution of the waiting processes with the smallest execution time.
+SJF has the highest average waiting time as compared to FCFS and the lowest in comparison with Priority Scheduling. It is selected for the execution of the waiting processes with the smallest execution time.
 
 ## Priority Scheduling 
 
