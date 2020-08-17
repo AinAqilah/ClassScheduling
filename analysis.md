@@ -14,7 +14,7 @@ Priority Scheduling is a method of scheduling processes that is based on the pri
 
 # Consideration
 
-Describe what you have considered
+The consideration of the class scheduling is the type of algorithms such as First Come First Served (FCFS), Round Robin, Shortest Job First (SJF), Shortest Remaining Time First (SRTF) and Priority Scheduling. Based on the project, we have considered some algorithms that included which are First Come First Served (FCFS), Shortest Job First (SJF) and Priority Scheduling. It is to implement in the project to analyze the average waiting time and average turnaround time of the class scheduling. 
 
 # Analysis
 
