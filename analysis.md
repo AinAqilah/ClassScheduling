@@ -2,6 +2,16 @@
 
 Describe the algorithms of your choice
 
+Class Scheduling is a process used to perform the queue schedule of courses. It is implementing the non-preemptive algorithms which once a process is starting to run, the process cannot stop until it completes. There are several non preemptive algorithms involved such as First Come First Served (FCFS), Shortest Job First (SJF), and Priority Scheduling. 
+
+First Come First Served (FCFS) is an algorithm that is easy to understand and implement in the process. The algorithm is implemented to help with a First In First Out (FIFO) queue. The data processes that arrive first become the head of the queue and get executed first. Meanwhile, the others data that arrive after are added to the rear of the queue. 
+
+Shortest Job First (SJF) is the process with the burst time or duration first of the process. It is queued based on the burst time that needs to be included in the processes. The process with the least burst time will be processed first.     
+
+Priority Scheduling is a method of scheduling processes that is based on the priority. Every process is selected to work as per the priority. The process with the highest priority will be executed first and followed by another priority. The same priority of the processes are executed in the FCFS. The process priority can be decided based on some requirement such as memory requirement and time requirement. 
+
+
+
 # Consideration
 
 Describe what you have considered
@@ -12,11 +22,48 @@ Describe what you have considered
 
 Give an analysis of your algo and compare it with the other two
 
+First Come First Served (FCFS)
+
+The output of the course scheduling:
+2201
+3401
+1103
+
+Average waiting time: 2.66667
+
+Average turnaround time: 4.66667
+
+Based on the 
+
 ## Algo2
 
 Give an analysis of your algo and compare it with the other two
 
+Shortest Job First (SJF)
+
+The output of the course scheduling:
+2201
+1103
+3401
+
+Average waiting time: 2.33333
+
+Average turnaround time: 4.33333
+
 ## Algo3
 
 Give an analysis of your algo and compare it with the other two
+
+Priority Scheduling 
+
+The output of the course scheduling:
+1103
+2201
+3401
+
+Average waiting time: 1.66667
+
+Average turnaround time: 3.66667
+
+
 
