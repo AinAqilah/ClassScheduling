@@ -43,7 +43,7 @@ Average waiting time: 2.33333
 
 Average turnaround time: 4.33333
 
-
+The 
 
 ## Priority Scheduling 
 
@@ -56,6 +56,8 @@ The order of the course scheduling:
 Average waiting time: 1.66667
 
 Average turnaround time: 3.66667
+
+The average waiting time and average turnaround time of the priority scheduling is the lowest contrast to FCFS and SJF algorithms. It is depending on the priority of the courses.
 
 # Conclusion
 
